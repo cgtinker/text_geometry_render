@@ -1,26 +1,20 @@
-﻿<Properties StartupConfiguration="{FBEFF438-CF09-806E-301C-7BEAF1E8F720}|">
+﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AppendText.cs">
     <Files>
       <File FileName="Assets/Scripts/ChangeImageColor.cs" Line="23" Column="21" />
-      <File FileName="Assets/Scripts/AppendText.cs" Line="39" Column="32" />
+      <File FileName="Assets/Scripts/AppendText.cs" Line="20" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Sample Project" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="AppendText.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Sample Project" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4d69d752-05fa-4c25-a22e-f474791a554e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0fcfdcaf-e945-4ee0-9028-f304b4ea06d2" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
