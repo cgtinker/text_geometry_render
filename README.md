@@ -7,7 +7,5 @@ required unity packages:
  - Shader Graph
  
 
-notes:
-- hard coded max chars, might not fit into screen
-- very resource heavy shader, bad setup
-- todo: gpu shader for rendering chars
+changes:
+- added gpu shader with flickering tiled letters
