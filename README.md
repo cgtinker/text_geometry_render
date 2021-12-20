@@ -10,3 +10,4 @@ required unity packages:
 notes:
 - hard coded max chars, might not fit into screen
 - very resource heavy shader, bad setup
+- todo: gpu shader for rendering chars
